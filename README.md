@@ -23,6 +23,14 @@ pnpm dev
 pnpm build
 ```
 
+Cloudflare Workersへのデプロイ:
+
+```bash
+pnpm deploy
+```
+
+`main`ブランチへの更新はCloudflare Workers Buildsから自動デプロイされます。
+
 ## Environment variables
 
 `.env.example` を参考に設定してください。
