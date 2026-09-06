@@ -55,3 +55,5 @@ pnpm deploy
 ## Before launch
 
 イベント、登壇者、参加者の声、運営会社情報は公開前に正式情報へ差し替えてください。
+
+<!-- Cloudflare auto-deploy verification: 2026-09-07 -->
