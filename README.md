@@ -31,6 +31,8 @@ pnpm deploy
 
 `main`ブランチへの更新はCloudflare Workers Buildsから自動デプロイされます。
 
+公開URL: https://hr-commons.sugita-214.workers.dev/
+
 ## Environment variables
 
 `.env.example` を参考に設定してください。
